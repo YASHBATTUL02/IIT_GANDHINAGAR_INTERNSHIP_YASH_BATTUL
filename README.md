@@ -1,4 +1,4 @@
-# IIT_GANDHINAGAR_INTERNSHIP_YASH_BATTUL
+# IIT_GANDHINAGAR_INTERNSHIP_TASK_YASH_BATTUL
 
 #In the given task of Machine Learning , Implementation of the JAX library is NumPy on the CPU, GPU, and TPU, with great automatic differentiation for high-performance machine learning research. . Compilation happens under the hood by default, with library calls getting just-in-time compiled and executed. But JAX even lets you just-in-time compile your own Python functions into XLA-optimized kernels using a one-function API.
 
